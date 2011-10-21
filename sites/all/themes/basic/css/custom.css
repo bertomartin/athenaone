@@ -1,0 +1,149 @@
+@CHARSET "ISO-8859-1";
+
+body{
+	background-image:url('img/background.jpg');
+background-repeat:no-repeat;
+background-position:left top;
+background-color:#f2f2f2;
+background-position:176px 0;
+	
+	}
+#wrapper{
+	/* background not necessary */
+	}
+#wrapper-inner{
+	xbackground: none repeat scroll 0 0 #FFFFFF;
+    margin: 0 auto;
+    xwidth: 1000px;
+	}
+#header-athena{
+	xbackground: url("/sites/all/themes/commerce/images/banner-opt.jpg") no-repeat scroll left top #FFFFFF;
+    height: 90px;
+    position: relative;
+    width:1005px;
+    margin:0 auto;
+    xborder:1px solid #000;
+    margin-bottom:30px;
+	}
+	#header-inner{
+	
+	}
+	
+	a.mylogo{
+	background-image: url("img/logo.png");
+    width: 486px;
+    height: 51px;
+    xtext-indent: -9999px;
+    z-index: 2;
+    display:block;
+    margin-top:18px;
+    float:left;
+	}
+	
+	#nav{
+	float:right;
+	margin-right:26px;
+	margin-top:28px;
+	}
+	#nav ul{
+	margin:0;padding:0;
+	}
+	#nav ul li{
+	list-style-type:none;
+	margin:0;
+	float:left;
+	margin-right:16px;
+	}
+	#nav ul li a{
+		text-transform:uppercase;
+		padding:10px 17px;
+		background-color:#e6e6e6;
+		display:block;
+		-moz-border-radius: 6px;
+		-webkit-border-radius:6px;
+		border-radius: 6px;
+		color:#333;
+		text-decoration:none;
+		
+	}
+	
+#container{
+	width:1005px;
+	margin:0 auto;
+	}
+	#content{
+	xbackground-color:blue;
+	display:block;
+	overflow:hidden;
+	margin-bottom:100px;
+	}
+		#content-left{
+		float:left;
+		width:373px;
+		xbackground-color:yellow;
+		}
+		#content-right{
+		float:left;
+		width:632px;
+		xbackground-color:red;
+		}
+			#content-right-inner{
+			padding-right:90px;
+			padding-left:30px;
+			}
+			
+			#content-right-inner ul{
+			margin:0;padding:0;
+			}
+			#content-right-inner ul li{
+			list-style-type:none;
+			border-bottom:1px solid #ccc;
+			margin-bottom:2em;padding-bottom:2em;
+			}
+			#content-right-inner ul li h2{
+			margin-bottom:0;
+			text-transform:uppercase;
+			font-size:1.9em;
+			color:#8f49a3;
+			font-weight:bold;
+			}
+			#content-right-inner ul li span{
+			color:#8f49a3;font-weight:bold;
+			}
+			#content-right-inner ul li span a{
+			text-decoration:none;
+			}
+			#content-right-inner ul li p{
+			margin:0;
+			}
+			
+h1.welcome{
+	font-size:2.2em;
+	color:#9f9f9c;
+	font-weight:bold;
+	margin-bottom:30px;
+	}
+	
+	#footer{
+	display:block;
+	overflow:auto;
+	}	
+	div.footer-copy{
+	color:#ccc;
+	font-size:0.9em;
+	margin:0 auto;
+	width:300px;
+	padding-top:5px;
+	}	
+	
+	hr.hr{
+	background-image: url("img/hr.gif");
+	background-repeat:repeat-x;
+	width:1005px;
+	margin:0 auto;
+	}	
+			
+			
+			
+			
+			

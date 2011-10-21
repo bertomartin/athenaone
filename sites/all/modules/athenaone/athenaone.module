@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the AthenaOne feature.
+ */
+
+include_once('athenaone.features.inc');
