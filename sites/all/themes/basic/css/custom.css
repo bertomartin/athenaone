@@ -8,6 +8,11 @@ background-color:#f2f2f2;
 background-position:176px 0;
 	
 	}
+  body.front h1.title{
+    color: #9f9f9c;
+    font-size: 2.2em;
+    font-weight: bold;
+  }
 #wrapper{
 	/* background not necessary */
 	}
